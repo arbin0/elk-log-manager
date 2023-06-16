@@ -1,7 +1,7 @@
 
 #Author: Arbin Khadka
 #Mail: arbin.khadka10@gmail.com
-#Whatsapp: +9779810367082 
+#Whatsapp: +1-437-473-8688
 
 #Purpose: Extract the Log messages of appications from elasticsearch and send emails to specified mail address 
 
