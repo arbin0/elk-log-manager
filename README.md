@@ -99,7 +99,6 @@ Extracted logs are saved in JSON format:
 ## Author
 - **Name**: Arbin Khadka
 - **Email**: arbin.khadka10@gmail.com
-- **WhatsApp**: +1-437-473-8688
 
 ## License
 This project is open source and available under the [MIT License](LICENSE).
